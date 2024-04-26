@@ -1,0 +1,2 @@
+# food_ing_recog
+借助paddleOCR模型，实现上传一张图片返回配料表详细信息
